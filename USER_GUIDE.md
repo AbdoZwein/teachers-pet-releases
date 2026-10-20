@@ -11,6 +11,8 @@ Open the [latest release](https://github.com/AbdoZwein/teachers-pet-releases/rel
 - If your browser says the file "isn't commonly downloaded", keep it. In Edge: point at the warning, click **⋯**, then **Keep**, then **Show more**, then **Keep anyway**.
 - Open the downloaded file. If Windows says **Windows protected your PC**, click **More info**, then **Run anyway**. You only see this once: later updates install themselves.
 
+<img src="guide/smartscreen.png" alt="Windows protected your PC, with the Run anyway button" width="400">
+
 Teacher's Pet installs in a few seconds, without asking anything, and opens by itself.
 
 ## 2. Open it, and do the first steps once
@@ -34,6 +36,7 @@ The first time it opens, it walks you through four short steps:
 
 - Press **★** to keep a job on your **Shortlisted** tab, or **✕** to hide it. Hidden jobs wait under **Dismissed**, in case you change your mind.
 - Click a job to see why it scores what it does, the school's research and what you could save there. Press **Open original post** to apply on the job site.
+- Type in the search box, or press **Filters** to narrow the list by country, age group, start, tier, savings and more.
 - **Filtered out** lists the jobs that did not fit, each with the reason.
 
 <img src="guide/details.png" alt="A job's details, with the Open original post button" width="720">
