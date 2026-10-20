@@ -46,25 +46,32 @@ The first time it opens, it walks you through four short steps:
 These three sites do not allow automatic checks, so you browse them yourself inside Teacher's Pet.
 
 1. In the roll call at the top, click the site (it says **capture**), then **Open and capture**.
-2. Log in and browse as usual. On each page with jobs, and on each job you open, press **Capture**.
-3. Close the window when you are done. The captured jobs appear in your list a moment later.
+2. Log in and browse as usual. On each page with jobs, and on each job you open, press **Capture**. You can go straight on to the next page and press Capture again: each page is saved the moment you press it.
+3. While pages are being read, a small circle turns on the tab. When it says **Done**, the jobs are in your list. You can close the tab any time; the pages you captured are read either way.
+
+Teacher Horizons opens on your own job search. To go to another page, type its address in the bar at the top and press Enter.
 
 <img src="guide/capture.png" alt="The bar above the site, with the Capture button" width="720">
 
 Capture never reads your password or anything you type into the site.
 
+Each site opens as a tab in one Teacher's Pet window, like tabs in a browser.
+
 ## 5. If ISC or ISS says Reconnect, log in again
 
-Teacher's Pet checks ISC and ISS for you with your own login. The first time, their names in the roll call say **connect**. When a login ends, they say **reconnect**.
+Teacher's Pet checks ISC and ISS for you with your own login. The first time, their names in the roll call say **connect**. Teacher's Pet keeps you logged in, even after it closes or your PC restarts, so you rarely log in again. Only when a site itself ends your login do they say **reconnect**.
 
 1. Click the site, then **Connect** or **Reconnect**.
-2. Log in in the window that opens. It closes by itself once you are in.
-3. On ISS, the first time only, it waits for you: open your saved job search, then press **Use this page**.
+2. Log in in the tab that opens. It closes by itself once you are in.
+3. On ISS, Teacher's Pet checks your search in **Job & School Search** (**Search Jobs** on your Dashboard). Set your filters there once, on ISS, and they are used every time.
+
+Use your email and password. **Continue with Google** cannot work inside an app, because Google does not allow it. If you have only ever used Google on that site, press **Forgot password?** there to set a password.
 
 <img src="guide/reconnect.png" alt="ISC says reconnect, with the Reconnect button" width="420">
 
 ## Good to know
 
+- On the **Schools** page, click a school's number of open jobs to see just those jobs. Press the **×** on **School: …** to see all jobs again.
 - The checks run while your PC is on and you are signed in to Windows, even with Teacher's Pet closed. If a check was missed, it runs when you next open the app. Press **Check now** to look straight away.
 - The amount at the top (for example **$0.00 this month**) is what the research has cost this month.
 - If a site's jobs come out wrong, press **Send diagnostics** in that site's window. It saves a cleaned copy of the page, without your details, in **Documents › Teacher's Pet diagnostics**. Send that file to whoever set up the app for you.
