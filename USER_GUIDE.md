@@ -71,8 +71,9 @@ Use your email and password. **Continue with Google** cannot work inside an app,
 
 ## Good to know
 
+- **Dream schools** (ABA Oman and Cairo American College) are checked on their own websites with every check. Their jobs say **Dream school** under the school's name, and the **Dream schools** button shows only those jobs. Like every job, they are listed only when they fit your search.
 - On the **Schools** page, click a school's number of open jobs to see just those jobs. Press the **×** on **School: …** to see all jobs again.
 - The checks run while your PC is on and you are signed in to Windows, even with Teacher's Pet closed. If a check was missed, it runs when you next open the app. Press **Check now** to look straight away.
 - The amount at the top (for example **$0.00 this month**) is what the research has cost this month.
 - If a site's jobs come out wrong, press **Send diagnostics** in that site's window. It saves a cleaned copy of the page, without your details, in **Documents › Teacher's Pet diagnostics**. Send that file to whoever set up the app for you.
-- Updates download by themselves and install when you close Teacher's Pet.
+- When there is a new version, Teacher's Pet asks whether to update now. **Update now** closes the app, installs it and opens it again (after a running check finishes). **When I close the app** lets you keep working; it installs by itself when you close Teacher's Pet.
