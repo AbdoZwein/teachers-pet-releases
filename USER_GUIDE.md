@@ -38,6 +38,7 @@ The first time it opens, it walks you through four short steps:
 - Click a job to see why it scores what it does, the school's research and what you could save there. Press **Open original post** to apply on the job site.
 - Type in the search box, or press **Filters** to narrow the list by country, age group, start, tier, savings and more.
 - **Filtered out** lists the jobs that did not fit, each with the reason.
+- To never see jobs that mention a word (a subject, a language, a city), type it in **Settings** under **Leave out jobs that mention**, then a comma, and press **Save changes**. To see those jobs again, press the **×** on the word, then **Save changes**.
 
 <img src="guide/details.png" alt="A job's details, with the Open original post button" width="720">
 
@@ -73,6 +74,7 @@ Use your email and password. **Continue with Google** cannot work inside an app,
 
 - **Dream schools** (ABA Oman and Cairo American College) are checked on their own websites with every check. Their jobs say **Dream school** under the school's name, and the **Dream schools** button shows only those jobs. Like every job, they are listed only when they fit your search.
 - On the **Schools** page, click a school's number of open jobs to see just those jobs. Press the **×** on **School: …** to see all jobs again.
+- To never see a school's jobs again, click it on the **Schools** page and press **Exclude school** (or press **Exclude school** next to the school's name in a job's details). Its jobs move to **Filtered out** at once, and later checks leave them out too. To change your mind, press **Include again** on the school, or the **×** on its name in **Settings** under **Excluded schools**, then **Save changes**.
 - The checks run while your PC is on and you are signed in to Windows, even with Teacher's Pet closed. If a check was missed, it runs when you next open the app. Press **Check now** to look straight away.
 - The amount at the top (for example **$0.00 this month**) is what the research has cost this month.
 - If a site's jobs come out wrong, press **Send diagnostics** in that site's window. It saves a cleaned copy of the page, without your details, in **Documents › Teacher's Pet diagnostics**. Send that file to whoever set up the app for you.
