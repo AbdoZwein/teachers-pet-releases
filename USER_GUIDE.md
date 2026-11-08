@@ -70,9 +70,20 @@ Use your email and password. **Continue with Google** cannot work inside an app,
 
 <img src="guide/reconnect.png" alt="ISC says reconnect, with the Reconnect button" width="420">
 
+## 6. Add your own dream school
+
+1. Open **Settings** and find **Your dream schools**.
+2. Type the school's name, then paste the address of its careers page (the page that lists its jobs). Press **Add school**.
+3. From now on the school is looked at with every check, and its jobs say **Dream school**. Like every job, they appear only when they fit your search. Press **Check now** if you do not want to wait.
+
+Under each school you see when it was last checked. **Pause** stops checking it until you press **Resume**. **Remove** deletes it from your list; jobs you shortlisted stay.
+
+- The first time, the app has no special reader for that school's website, so DeepSeek reads the page. It only does this when the page has changed, so a check on an unchanged page costs nothing. The app also quietly asks for a proper reader for that website. Only the school's name and the address are sent, never anything from your CV. When one comes with an update, your school switches over by itself and the jobs you shortlisted or applied for keep their marks.
+- If a school cannot be read, the reason is under the school in **Settings**, and in the **Dream schools** circle in the roll call (click it), and none of its jobs are taken off your list. The usual reasons: the school's website does not allow the app to read the page; DeepSeek needs its key (**Settings**, **Checks and AI**); the page shows its jobs only after it has run its own programs, which the app cannot do (a proper reader has been asked for); or the page only holds a frame or a box from another job website, and then the message gives you that website's address to add instead. A page whose jobs are only pictures shows no jobs. Your school is tried again at the next check.
+
 ## Good to know
 
-- **Dream schools** (ABA Oman and Cairo American College) are checked on their own websites with every check. Their jobs say **Dream school** under the school's name, and the **Dream schools** button shows only those jobs. Like every job, they are listed only when they fit your search.
+- **Dream schools** are checked on their own websites with every check. Their jobs say **Dream school** under the school's name, and the **Dream schools** button shows only those jobs. Like every job, they are listed only when they fit your search. ABA Oman and Cairo American College are there already; you can add more yourself (see section 6).
 - On the **Schools** page, click a school's number of open jobs to see just those jobs. Press the **×** on **School: …** to see all jobs again.
 - To never see a school's jobs again, click it on the **Schools** page and press **Exclude school** (or press **Exclude school** next to the school's name in a job's details). Its jobs move to **Filtered out** at once, and later checks leave them out too. To change your mind, press **Include again** on the school, or the **×** on its name in **Settings** under **Excluded schools**.
 - The checks run while your PC is on and you are signed in to Windows, even with Teacher's Pet closed. If a check was missed, it runs when you next open the app. Press **Check now** to look straight away.
